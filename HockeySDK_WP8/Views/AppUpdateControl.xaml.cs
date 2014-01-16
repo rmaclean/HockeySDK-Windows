@@ -1,22 +1,12 @@
-﻿using System;
+﻿using HockeyApp.Tools;
+using Microsoft.Phone.Tasks;
+using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Navigation;
-using Microsoft.Phone.Controls;
-using Microsoft.Phone.Shell;
-using HockeyApp.Tools;
-using System.Windows.Media.Imaging;
-using System.Threading.Tasks;
-using HockeyApp.Model;
-using Microsoft.Phone.Reactive;
-using System.IO;
-using Windows.Storage.Streams;
-using Windows.Storage;
 using System.Windows.Media.Animation;
-using Microsoft.Phone.Tasks;
+using System.Windows.Media.Imaging;
 
 namespace HockeyApp.Views
 {

@@ -1,12 +1,11 @@
-﻿using System;
+﻿using HockeyApp.Views;
+using Microsoft.Phone.Controls;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
 using System.Windows;
 using System.Windows.Controls.Primitives;
 using System.Windows.Threading;
-using System.Linq;
-using HockeyApp.Views;
-using System.Collections.Generic;
-using Microsoft.Phone.Controls;
-using System.ComponentModel;
 
 namespace HockeyApp.Tools
 {

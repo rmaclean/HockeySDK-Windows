@@ -63,17 +63,9 @@
  * fitness for a particular purpose and non-infringement.
  */
 
-using System;
-using System.Collections.Generic;
-using System.Collections.Specialized;
-using System.ComponentModel;
 using System.IO.IsolatedStorage;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Controls.Primitives;
-using System.Windows.Threading;
-using Microsoft.Phone.Controls;
-using HockeyApp.Controls;
 
 namespace HockeyApp.Controls.NotificationBox
 {

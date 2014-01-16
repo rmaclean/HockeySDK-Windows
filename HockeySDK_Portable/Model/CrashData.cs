@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using HockeyApp.Exceptions;
+using HockeyApp.Extensions;
+using System;
+using System.IO;
+using System.Net;
+using System.Runtime.CompilerServices;
 using System.Runtime.Serialization;
+using System.Runtime.Serialization.Json;
 using System.Text;
 using System.Threading.Tasks;
-using System.Net;
-using System.IO;
-using System.Reflection;
-using HockeyApp.Extensions;
-using System.Runtime.Serialization.Json;
-using HockeyApp.Exceptions;
-using System.Runtime.CompilerServices;
 
 //TODO make it work with InternalsVisibleTo (PublicKey ?!) and make class and OnDeserializing internal
 [assembly: InternalsVisibleTo("System.Runtime.Serialization")]

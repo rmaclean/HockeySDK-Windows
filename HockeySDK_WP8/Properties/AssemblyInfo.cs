@@ -1,7 +1,6 @@
 ﻿using System.Reflection;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
 using System.Resources;
+using System.Runtime.InteropServices;
 
 [assembly: AssemblyTitle("HockeySDK")]
 [assembly: AssemblyDescription("Windows Phone Class Library to do crash reporting with hockeyapp.net")]

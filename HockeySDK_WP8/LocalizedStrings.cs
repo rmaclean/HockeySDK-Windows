@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.ComponentModel;
-using System.Dynamic;
-using System.Globalization;
-using System.Reflection;
+﻿using System.Dynamic;
 using System.Resources;
 
 namespace HockeyApp

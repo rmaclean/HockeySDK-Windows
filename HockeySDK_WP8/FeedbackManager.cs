@@ -1,12 +1,9 @@
-﻿using System.Windows.Navigation;
-using HockeyApp.Model;
+﻿using HockeyApp.Model;
 using HockeyApp.Tools;
 using System;
 using System.IO.IsolatedStorage;
-using System.Linq;
-using System.Net;
 using System.Threading.Tasks;
-using System.Windows;
+using System.Windows.Navigation;
 
 namespace HockeyApp
 {

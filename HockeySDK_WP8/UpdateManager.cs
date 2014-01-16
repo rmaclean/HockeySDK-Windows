@@ -1,21 +1,11 @@
-﻿using HockeyApp.Model;
+﻿using HockeyApp.Tools;
+using Microsoft.Phone.Reactive;
 using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using System.Net;
-using System.Net.Browser;
 using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
-using HockeyApp.Tools;
-using Microsoft.Phone.Reactive;
-using Windows.Phone.Management.Deployment;
 using System.Windows;
-using Windows.Management.Deployment;
-using System.Windows.Controls.Primitives;
-using System.Windows.Controls;
-using System.Windows.Media;
+using Windows.Phone.Management.Deployment;
 
 namespace HockeyApp
 {

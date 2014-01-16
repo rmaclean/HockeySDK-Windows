@@ -24,20 +24,20 @@
  * OTHER DEALINGS IN THE SOFTWARE. 
  */
 
-using System;
-using System.IO;
-using System.Linq;
-using System.Windows;
-using Microsoft.Phone.Info;
-using Microsoft.Phone.Reactive;
-using System.Diagnostics;
-using System.IO.IsolatedStorage;
-using HockeyApp.Tools;
-using System.Windows.Controls;
-using System.Threading.Tasks;
-using System.Net.NetworkInformation;
 using HockeyApp.Exceptions;
 using HockeyApp.Model;
+using HockeyApp.Tools;
+using Microsoft.Phone.Info;
+using Microsoft.Phone.Reactive;
+using System;
+using System.Diagnostics;
+using System.IO;
+using System.IO.IsolatedStorage;
+using System.Linq;
+using System.Net.NetworkInformation;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
 
 namespace HockeyApp
 {

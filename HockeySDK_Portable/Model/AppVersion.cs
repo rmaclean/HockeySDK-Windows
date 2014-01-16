@@ -1,12 +1,9 @@
-﻿using System;
+﻿using HockeyApp.Extensions;
+using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
-using System.Text;
-using System.Threading.Tasks;
-using HockeyApp.Extensions;
 
 namespace HockeyApp.Model
 {

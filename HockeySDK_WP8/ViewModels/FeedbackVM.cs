@@ -1,17 +1,11 @@
-﻿using HockeyApp.Model;
+﻿using HockeyApp.Tools;
 using Microsoft.Phone.Net.NetworkInformation;
-using Microsoft.Phone.Reactive;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.IO.IsolatedStorage;
 using System.Linq;
-using System.Net;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using HockeyApp.Tools;
 
 namespace HockeyApp.ViewModels
 {
